@@ -1,5 +1,5 @@
 [
-    {"id": "e7df4bcf-0637-4aa3-a0fc-6830e3dc266f", "name": "Windows 3.1", "releaseDate": "1989-1-1"},
-    {"id": "444bcce9-7c2b-412e-be91-be6ecab3a148","name": "Windows 95", "releaseDate": "1996-7-14", "endOfLifeDate": "2000-12-31"},
-    {"id": "26a874b3-2491-4f85-830c-b91b2206fde7","name": "Windows 98", "releaseDate": "1998-5-15", "endOfLifeDate": "2002-6-30"}
+    {"id": "184e7e7f-93ab-446d-b43f-81906ed0e4ee", "name": "Windows 3.1", "releaseDate": "1989-1-1"},
+    {"id": "3988bd5a-57ea-4250-9844-035a43fbda4e","name": "Windows 95", "releaseDate": "1995-8-24", "endOfLifeDate": "2000-12-31"},
+    {"id": "5f2719ca-e29f-4a31-84d7-f7a4c8bf7531","name": "Windows 98", "releaseDate": "1998-5-15", "endOfLifeDate": "2002-6-30"}
 ]

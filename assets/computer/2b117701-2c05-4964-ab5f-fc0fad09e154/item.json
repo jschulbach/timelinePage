@@ -1,4 +1,5 @@
 {
     "name": "Apple II",
-    "desc": "Here is some apple II stuff."
+    "desc": "Here is some apple II stuff.",
+    "cpu": "921e04d9-74cf-4651-b3cf-69ad2ba94349"
 }

@@ -10,5 +10,6 @@
     {"id": "95689109-6ed0-4629-9e9f-d1208605fa79", "name": "Intel Pentium III Coppermine", "releaseDate": "1999-10-1"},
     {"id": "2ee78adf-4fe4-43b9-bf78-324478b5f1de", "name": "Intel Pentium III Tualatin", "releaseDate": "2001-7-1"},
     {"id": "efef1bde-bcd9-4d0e-a036-a4e78b3c7605", "name": "Intel Pentium IV Willamette", "releaseDate": "2000-11-1"},
-    {"id": "69c9ceb3-97d1-49ee-bec9-e7ceed3cdec3", "name": "Intel Pentium IV Northwood", "releaseDate": "2002-1-1"}
+    {"id": "69c9ceb3-97d1-49ee-bec9-e7ceed3cdec3", "name": "Intel Pentium IV Northwood", "releaseDate": "2002-1-1"},
+    {"id": "de97648a-ab4c-424f-88f9-3a11996d247d", "name": "Zilog Z80",  "releaseDate": "1976-7-1", "endOfLifeDate": "2023-6-1"}
 ]
